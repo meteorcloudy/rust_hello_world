@@ -7,7 +7,7 @@ edition = "2018"
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
 [dependencies]
-# time = { git = "https://github.com/meteorcloudy/time.git", tag = "v0.2.16" }
-time = "0.2.16"
+time = { git = "https://github.com/meteorcloudy/time.git", tag = "v0.2.16" }
+# time = "0.2.16"
 regex = "0.2.0"
 
